@@ -39,7 +39,7 @@
                 <h1><a href="/index.html"></a> > Malik Ateeq</a></h1>
                 <!-- Uncomment below if you prefer to use an image logo -->
                 <!-- <a href="index.html" class="mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
-                <h2>I'm a passionate <span>graphic designer</span> from Dubai</h2>
+                <h2>I'm a passionate <span>web developer</span> from Dubai, UAE.</h2>
 
                 <nav class="nav-menu d-none d-lg-block">
                     <ul>
@@ -53,11 +53,10 @@
                 </nav><!-- .nav-menu -->
 
                 <div class="social-links">
-                    <a href="#" target="_blank" class="twitter"><i class="icofont-twitter"></i></a>
-                    <a href="https://www.facebook.com/malickateeq" target="_blank" class="facebook"><i class="icofont-facebook"></i></a>
-                    <a href="#" target="_blank" class="instagram"><i class="icofont-instagram"></i></a>
-                    <a href="#" target="_blank" class="google-plus"><i class="icofont-skype"></i></a>
-                    <a href="#" target="_blank" class="linkedin"><i class="icofont-linkedin"></i></a>
+                  <a href="https://wa.me/+923048486653" target="_blank" class="phone"><i class="icofont-whatsapp"></i></i></a>
+                  <a href="https://github.com/malickateeq" target="_blank" class="instagram"><i class="icofont-github"></i></a>
+                  <a href="#" target="_blank" class="linkedin"><i class="icofont-linkedin"></i></a>
+                  <a href="https://www.facebook.com/malickateeq" target="_blank" class="facebook"><i class="icofont-facebook"></i></a>
                 </div>
 
             </div>
@@ -80,7 +79,7 @@
           <img src="assets/img/me.jpg" class="img-fluid" alt="">
         </div>
         <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
-          <h3>UI/UX &amp; Graphic Designer</h3>
+          <h3>Full Stack Web Developer</h3>
           <p class="font-italic">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
             magna aliqua.
@@ -88,18 +87,41 @@
           <div class="row">
             <div class="col-lg-6">
               <ul>
-                <li><i class="icofont-rounded-right"></i> <strong>Birthday:</strong> 1 May 1995</li>
-                <li><i class="icofont-rounded-right"></i> <strong>Website:</strong> www.example.com</li>
-                <li><i class="icofont-rounded-right"></i> <strong>Phone:</strong> +123 456 7890</li>
-                <li><i class="icofont-rounded-right"></i> <strong>City:</strong> City : New York, USA</li>
+                <li>
+                  <i class="icofont-rounded-right"></i> 
+                  <strong>Birthday:</strong> 17 Dec 1997
+                </li>
+                <li>
+                  <i class="icofont-rounded-right"></i> 
+                  <strong>Website:</strong> 
+                  <a target="_blank" href="https://malickateeq.github.io">
+                    https://malickateeq.github.io
+                  </a> 
+                </li>
+                <li>
+                  <i class="icofont-rounded-right"></i> 
+                  <strong>Phone:</strong> +971 56 1918 152
+                </li>
+                <li>
+                  <i class="icofont-rounded-right"></i> 
+                  <strong>City:</strong> City : Dubai, UAE
+                </li>
               </ul>
             </div>
             <div class="col-lg-6">
               <ul>
-                <li><i class="icofont-rounded-right"></i> <strong>Age:</strong> 30</li>
-                <li><i class="icofont-rounded-right"></i> <strong>Degree:</strong> Master</li>
-                <li><i class="icofont-rounded-right"></i> <strong>PhEmailone:</strong> email@example.com</li>
-                <li><i class="icofont-rounded-right"></i> <strong>Freelance:</strong> Available</li>
+                <li>
+                  <i class="icofont-rounded-right"></i> 
+                  <strong>Age:</strong> 22</li>
+                <li>
+                  <i class="icofont-rounded-right"></i> 
+                  <strong>Degree:</strong> BS (Computer Science)</li>
+                <li>
+                  <i class="icofont-rounded-right"></i> 
+                  <strong>Email:</strong> <a href="mailto:malickateeq@gmail.com">malickateeq@gmail.com</a> </li>
+                <li>
+                  <i class="icofont-rounded-right"></i> 
+                  <strong>Freelance:</strong> Available</li>
               </ul>
             </div>
           </div>
@@ -676,7 +698,7 @@
           <div class="info-box">
             <i class="bx bx-map"></i>
             <h3>My Address</h3>
-            <p>A108 Adam Street, New York, NY 535022</p>
+            <p>1209 Opal Tower, Business Bay, Dubai, UAE</p>
           </div>
         </div>
 
@@ -698,14 +720,14 @@
           <div class="info-box">
             <i class="bx bx-envelope"></i>
             <h3>Email Me</h3>
-            <p>contact@example.com</p>
+            <p> <a href="mailto:malickateeq@gmail.com">malickateeq@gmail.com</a> </p>
           </div>
         </div>
         <div class="col-md-6 mt-4 d-flex align-items-stretch">
           <div class="info-box">
             <i class="bx bx-phone-call"></i>
             <h3>Call Me</h3>
-            <p>+1 5589 55488 55</p>
+            <p>+971 56 1918 152</p>
           </div>
         </div>
       </div>
