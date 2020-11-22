@@ -34,32 +34,32 @@
     <!-- ======= Header ======= -->
     <header id="header" class="header-tops">
 
-            <div class="container">
+      <div class="container">
 
-                <h1><a href="/index.html"></a> > Malik Ateeq</a></h1>
-                <!-- Uncomment below if you prefer to use an image logo -->
-                <!-- <a href="index.html" class="mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
-                <h2>I'm a passionate <span>web developer</span> from Dubai, UAE.</h2>
+          <h1><a href="/index.html"></a> > Malik Ateeq</a></h1>
+          <!-- Uncomment below if you prefer to use an image logo -->
+          <!-- <a href="index.html" class="mr-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a> -->
+          <h2>I'm a passionate <span>web developer</span> from Dubai, UAE.</h2>
 
-                <nav class="nav-menu d-none d-lg-block">
-                    <ul>
-                    <li class="active"><a href="#header">Home</a></li>
-                    <li><a href="#about">About</a></li>
-                    <li><a href="#resume">Resume</a></li>
-                    <li><a href="#services">Services</a></li>
-                    <li><a href="#portfolio">Portfolio</a></li>
-                    <li><a href="#contact">Contact</a></li>
-                    </ul>
-                </nav><!-- .nav-menu -->
+          <nav class="nav-menu d-none d-lg-block">
+              <ul>
+              <li class="active"><a href="#header">Home</a></li>
+              <li><a href="#about">About</a></li>
+              <li><a href="#resume">Resume</a></li>
+              <li><a href="#services">Services</a></li>
+              <li><a href="#portfolio">Portfolio</a></li>
+              <li><a href="#contact">Contact</a></li>
+              </ul>
+          </nav><!-- .nav-menu -->
 
-                <div class="social-links">
-                  <a href="https://wa.me/+923048486653" target="_blank" class="phone"><i class="icofont-whatsapp"></i></i></a>
-                  <a href="https://github.com/malickateeq" target="_blank" class="instagram"><i class="icofont-github"></i></a>
-                  <a href="#" target="_blank" class="linkedin"><i class="icofont-linkedin"></i></a>
-                  <a href="https://www.facebook.com/malickateeq" target="_blank" class="facebook"><i class="icofont-facebook"></i></a>
-                </div>
+          <div class="social-links">
+            <a href="https://wa.me/+923048486653" target="_blank" class="phone"><i class="icofont-whatsapp"></i></i></a>
+            <a href="https://github.com/malickateeq" target="_blank" class="instagram"><i class="icofont-github"></i></a>
+            <a href="#" target="_blank" class="linkedin"><i class="icofont-linkedin"></i></a>
+            <a href="https://www.facebook.com/malickateeq" target="_blank" class="facebook"><i class="icofont-facebook"></i></a>
+          </div>
 
-            </div>
+      </div>
 
     </header><!-- End Header -->
 
@@ -418,9 +418,9 @@
 
           <h3 class="resume-title">Education</h3>
           <div class="resume-item">
-            <h4>Master of Fine Arts &amp; Graphic Design</h4>
-            <h5>2015 - 2016</h5>
-            <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
+            <h4>Bachelor of Science in Computer Science</h4>
+            <h5>2015 - 2019</h5>
+            <p><em>University Institute Of Information Technology, Rawalpindi, PK</em></p>
             <p>Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam iusto autem sit. Ea vero voluptatum qui ut dignissimos deleniti nerada porti sand markend</p>
           </div>
           <div class="resume-item">
@@ -433,9 +433,9 @@
         <div class="col-lg-6">
           <h3 class="resume-title">Professional Experience</h3>
           <div class="resume-item">
-            <h4>Senior graphic design specialist</h4>
+            <h4>Full Stack Web Developer</h4>
             <h5>2019 - Present</h5>
-            <p><em>Experion, New York, NY </em></p>
+            <p><em>VaultsPay, Dubai, UAE </em></p>
             <p>
             <ul>
               <li>Lead in the design, development, and implementation of the graphic, layout, and production communication materials</li>
@@ -446,8 +446,8 @@
             </p>
           </div>
           <div class="resume-item">
-            <h4>Graphic design specialist</h4>
-            <h5>2017 - 2018</h5>
+            <h4>Junior Web Developer</h4>
+            <h5>2019 - 2019</h5>
             <p><em>Stepping Stone Advertising, New York, NY</em></p>
             <p>
             <ul>
